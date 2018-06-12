@@ -1,4 +1,4 @@
-# Gettingandcleaningdat_week4
+# Gettingandcleaningdat4_week4
 Assignment Submission for week4- Getting and cleaning Data
 
 This repo was created to finish the assignment for week 4 of Getting and Cleaning Data Coursera course.
